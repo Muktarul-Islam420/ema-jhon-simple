@@ -1,0 +1,14 @@
+.remove-items{
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    margin-left: 200px;
+}
+.quantity{
+    color:lightgrey;
+    text-shadow: 1px 1px 1px red;
+}
+.quantity:hover{
+    color:red;
+    
+}
